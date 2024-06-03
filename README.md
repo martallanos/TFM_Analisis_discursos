@@ -1,6 +1,6 @@
 # TFM Analisis discursos
 ### Realizado por: Arturo Velasco Valero, Enrique Muñoz Fernández y Marta Llanos Rodríguez
-### Dirigido por Gabriel Antonio Valverde Castilla
+### Dirigido por: Gabriel Antonio Valverde Castilla
 
 ## 1. Introducción al trabajo
 En este estudio se emplea Python como lenguaje de programación para desarrollar modelos de análisis de sentimientos y predicción de rendimientos de bonos del tesoro de EE. UU. Se aborda la influencia de discursos de representantes de la Reserva Federal en las predicciones financieras. La metodología se basa en la síntesis de estos modelos para mejorar la precisión de las predicciones económicas.

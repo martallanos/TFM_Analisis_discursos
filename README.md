@@ -5,7 +5,7 @@
 En este proyecto se realiza un análisis exhaustivo de datos textuales y precios. Se utilizan diversas técnicas de análisis de texto y modelos de predicción para obtener insights y hacer predicciones basadas en los datos disponibles.
 
 ## 2. Fuentes de datos
-- **Discursos:** Los discursos se encuentran en la carpeta `discursos.zip`.
+- **Discursos:** Los discursos se encuentran en la carpeta `discursos.zip`. Han sido extraidos de la página oficial de la [Reserva Federal de los Estados Unidos](https://www.federalreserve.gov/newsevents/speeches.htm)
 - **Datos de precios:** Información sobre precios recopilada para el análisis.
 
 ## 3. Análisis de texto

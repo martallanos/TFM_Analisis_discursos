@@ -1,4 +1,4 @@
-# Análisis del Impacto de los Discursos de la FED en los Rendimientos de los del Bonos Tesoro de EE. UU 
+# Análisis del Impacto de los Discursos de la FED en los Rendimientos de los del Bonos Tesoro de EE. UU  
 ### Realizado por: Arturo Velasco Valero, Enrique Muñoz Fernández y Marta Llanos Rodríguez
 ### Dirigido por: Gabriel Antonio Valverde Castilla
 
